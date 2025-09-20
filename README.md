@@ -28,9 +28,5 @@ It covers **data cleaning, preprocessing, and visualization** to find patterns a
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/username/COVID-Analysis-Project.git
 
    
